@@ -1,6 +1,6 @@
 # ReactNativeClone
 Trabalho Individual da disciplina de ReactNative de confecção de telas do Figma
-# SpotifyCloneTarefa
+# Clone
 Este Repositorio é da tarefa de clonar duas pages em native de um app a minha escolha. Escolhido o Spotify darei continuidade.
 Em Desenvolvimento.
 
